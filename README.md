@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello there! I'm Hardik Kumar Singh, currently in the prefinal year at Motilal Nehru National Institute of Technology (MNNIT) Allahabad, Prayagraj. 🎓<br>💻 Enthusiastic about development, particularly the art of sculpting captivating website frontends. I firmly believe in the transformative power of design to craft immersive user experiences. 💡<br><br>🛠️ My versatile toolkit encompasses HTML, CSS, React.js, Express, Node.js, MongoDB, and Material-UI. Proficient in C, C++, and Java, I'm adept at translating ideas into dynamic web applications, from responsive layouts to intricate functionalities. 🚀
+👋 Hello there! I'm Hardik Kumar Singh, currently in the final year at Motilal Nehru National Institute of Technology (MNNIT) Allahabad, Prayagraj. 🎓<br>💻 Enthusiastic about development, particularly the art of sculpting captivating website frontends. I firmly believe in the transformative power of design to craft immersive user experiences. 💡<br><br>🛠️ My versatile toolkit encompasses HTML, CSS, React.js, Express, Node.js, MongoDB, and Material-UI. Have knowledge of C, C++, and Java and proficient in C++, I'm adept at translating ideas into dynamic web applications, from responsive layouts to intricate functionalities. 🚀
 
 
 ## 🌐 Socials:
