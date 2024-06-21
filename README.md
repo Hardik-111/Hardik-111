@@ -5,7 +5,7 @@ Hello there! I'm Hardik Kumar Singh, currently in the final year at Motilal Nehr
 ## 🛠️ Tech Stack:
 
 - **Languages:** C, C++, Java, HTML, CSS
-- **Frameworks/Libraries:** React.js, Express.js
+- **Frameworks/Libraries:** React.js
 - **Databases:** MongoDB
 - **Others:** Node.js
 
