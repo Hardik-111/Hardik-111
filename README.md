@@ -11,7 +11,7 @@ Hello there! I'm Hardik Kumar Singh, currently in the final year at Motilal Nehr
 
 ## 🌐 Profiles:
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/hardik_kumar_singh/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/hardik_112/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2F8D46.svg?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/ihardik112/)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardik-kumar-singh/) 
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ihardik_112/)
