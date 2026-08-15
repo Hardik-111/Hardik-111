@@ -8,11 +8,15 @@ At Grid Dynamics, I develop enterprise-grade AI solutions, design scalable APIs,
 
 I'm passionate about writing clean, maintainable code, optimizing system performance, and continuously learning new technologies.
 
-## 🌐 Portfolio
+### 🌐 Portfolio
 
-[![Portfolio Preview](./assets/portfolio-preview.png)](https://hardik-portfolio-new.vercel.app)
+<p align="left">
+  <a href="https://hardik-portfolio-new.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
-> 🚀 **Explore my interactive portfolio:** https://hardik-portfolio-new.vercel.app
+> **Explore my portfolio:** https://hardik-portfolio-new.vercel.app/
 
 ---
 
