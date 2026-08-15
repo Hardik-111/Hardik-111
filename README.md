@@ -1,62 +1,120 @@
-# 👋 About Me
+# 👋 Hi, I'm Hardik Kumar Singh
 
-Hello there! I'm **Hardik Kumar Singh**, a final-year **B.Tech student in Computer Science** at **MNNIT Prayagraj**. Passionate about **software development, problem-solving, and system design**, I specialize in **Data Structures & Algorithms (DSA), Full-Stack Development, and Optimization**.
+I'm a **Junior Software Engineer at Grid Dynamics** and a **B.Tech graduate in Computer Science & Engineering** from **Motilal Nehru National Institute of Technology (MNNIT) Allahabad**.
 
-With hands-on experience in **React.js, Node.js, and MongoDB**, I enjoy building **scalable and efficient applications** while optimizing algorithms and data structures for performance. I also have a keen interest in **computer networking, operating systems, and database management**.
+I enjoy building **scalable backend systems, AI-powered applications, and cloud-native platforms** that solve real-world problems. My interests lie in **Backend Development, Distributed Systems, System Design, Cloud Computing, and Artificial Intelligence**.
 
-Beyond coding, I'm an **avid cricket player**, valuing **teamwork, discipline, and continuous learning** to stay ahead in the ever-evolving tech industry.
+At Grid Dynamics, I develop enterprise-grade AI solutions, design scalable APIs, integrate Large Language Models (LLMs), and build cloud-native applications that improve business workflows through automation.
+
+I'm passionate about writing clean, maintainable code, optimizing system performance, and continuously learning new technologies.
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Tech Stack
 
-### 🔹 **Programming Languages:**
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+## 💻 Programming Languages
+
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=flat&logo=sqlite&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-
-### 🔹 **Frameworks & Libraries:**
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-
-### 🔹 **Databases & Dev Tools:**
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=flat&logo=apache-maven&logoColor=white)
-![JUnit5](https://img.shields.io/badge/JUnit5-%2325A162.svg?style=flat&logo=junit5&logoColor=white)
 
 ---
 
-## 🌐 Connect With Me
+## ⚙️ Backend & Frameworks
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/hardik_112/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2F8D46.svg?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/ihardik112/)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+---
+
+## 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6B46C1?style=flat)
+
+---
+
+## ☁️ Cloud & DevOps
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+---
+
+## 🤖 AI & Machine Learning
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat)
+![LLMs](https://img.shields.io/badge/LLMs-AI-blue?style=flat)
+
+---
+
+## 🛠️ Developer Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+# 🏗️ Areas of Interest
+
+- Backend Development
+- Distributed Systems
+- System Design
+- Microservices
+- Cloud Computing
+- Artificial Intelligence
+- High Performance APIs
+- Database Design
+- Performance Optimization
+
+---
+
+# 🌐 Connect With Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardik-kumar-singh/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ihardik_112/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/Hardik-111)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/hardik_112/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/ihardik112/)
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hardik-111&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true" height="165px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardik-111&theme=vision-friendly-dark&hide_border=false" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hardik-111&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardik-111&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-### 🖝 **Top Languages:**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hardik-111&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 📌 **Top Contributed Repositories:**
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=Hardik-111&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardik-111&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 🚀 Let's Connect & Collaborate!
+# 📈 Currently Working On
 
-💡 Open to exciting opportunities in **Software Development, Full-Stack Engineering, and Backend Development**. Feel free to reach out! 🤝
+- 🚀 Enterprise AI Applications
+- ⚡ Java & Spring Boot
+- 🤖 LLM-powered Systems
+- ☁️ Cloud-native Backend Development
+- 🏗️ System Design & Microservices
+- 📚 Data Structures & Algorithms
 
-📧 Email: [ihardik.911@gmail.com](mailto:ihardik.911@gmail.com)
+---
+
+> *"I love building software that combines scalable backend engineering with AI to solve real-world business problems."*
